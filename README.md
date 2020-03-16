@@ -24,7 +24,7 @@ Once in a while, I will run a script (to be released soon!) to scrape the tweets
 
 Text | Picture
 ---|---
-5000 lux under a white sail shade when the sun is overhead on a **clear day, 12pm, March, Singapore**. Direct sun is blocked, pleasant shade and sufficient daylight for an outdoor walkway in an equatorial climate @testolimited **#daylightmapping** [(Tweet link)](https://twitter.com/prijipriji) | ![alt text](Image/Img01.jpg)
+5000 lux under a white sail shade when the sun is overhead on a **clear day, 12pm, March, Singapore**. Direct sun is blocked, pleasant shade and sufficient daylight for an outdoor walkway in an equatorial climate @testolimited **#daylightmapping** [(Tweet link)](https://twitter.com/prijipriji/status/1239541267844874240?s=21) | ![alt text](Image/Img01.jpg)
 
 ### Project details
 
@@ -42,6 +42,8 @@ The tweets contain two items:
 - **The description:** Depending on how rich the descriptions in our dataset are, it may make sense to run a sentiment analysis and observe how various environments are experienced by our data collectors. Other methods may try and "understand" as much from the description as possible, e.g., recognise date information or lux levels from the text alone.
 - **The picture:** Also depending on the quality of collected pictures, image recognition algorithms can be used to infer properties of the image and key elements (a shade, a pool, the sky, trees).
 
+---
 
+Find me on Twitter! [\@prijipriji](https://twitter.com/prijipriji)
 
 
